@@ -51,7 +51,7 @@ sudo pip3 uninstall mediapipe-rpi3
 ```bash
 git clone https://github.com/kritsana3376/rPPG_rasberry_pi.git
 ```
-python
+Run project
 ```bash
 python main.py
 ```
