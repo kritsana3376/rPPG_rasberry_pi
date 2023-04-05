@@ -15,9 +15,8 @@ sudo apt install python3 idle3
 ```bash
 sudo pip3 list
 ```
-ถ้าไม่มี numpy, scipy,opencv ให้ install 
+ถ้าไม่มี numpy, opencv ให้ install 
 ```bash
-sudo apt-get install python3-scipy
 sudo apt-get install python3-numpy 
 sudo apt-get install python3-opencv
 ```
