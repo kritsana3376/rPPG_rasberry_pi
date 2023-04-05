@@ -47,8 +47,10 @@ sudo pip3 install mediapipe-rpi3
 ```bash
 sudo pip3 uninstall mediapipe-rpi3
 ```
-GITCLONE
-
+## clone project
+```bash
+git clone https://github.com/kritsana3376/rPPG_rasberry_pi.git
+```
 python
 ```bash
 python main.py
