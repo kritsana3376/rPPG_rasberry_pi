@@ -3,7 +3,7 @@
 หลังจากติดตั้ง rasberry OS
 [rasberry OS](https://www.raspberrypi.com/software/) to install .
 ## Installation
-How to install [Python 3](https://www.raspberrypi.com/software/](https://projects.raspberrypi.org/en/projects/generic-python-install-python3#linux)
+How to install [Python 3](https://projects.raspberrypi.org/en/projects/generic-python-install-python3#linux) .
 Most distributions of Linux come with Python 3 already installed, but they might not have IDLE, the default IDE (interactive development environment), installed.
 Use apt to check whether they are installed and install them if they aren’t.
 Open a terminal window and type:
