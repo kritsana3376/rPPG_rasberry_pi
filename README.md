@@ -48,3 +48,9 @@ sudo pip3 install mediapipe-rpi3
 ```bash
 sudo pip3 uninstall mediapipe-rpi3
 ```
+GITCLONE
+
+python
+```bash
+python main.py
+```
