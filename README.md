@@ -1,7 +1,7 @@
 # rPPG_rasberry_pi
 
 หลังจากติดตั้ง rasberry OS
-[rasberry OS]([https://pip.pypa.io/en/stable/](https://www.raspberrypi.com/software/)) to install .
+[rasberry OS](https://www.raspberrypi.com/software/) to install .
 ## Installation
 ตรวจสอบ lib
 ```bash
