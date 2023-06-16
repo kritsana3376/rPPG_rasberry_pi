@@ -1,6 +1,5 @@
 # rPPG_rasberry_pi
 
-Install rasberry OS
 [rasberry OS](https://www.raspberrypi.com/software/) to install .
 ## Installation
 How to install [Python 3](https://projects.raspberrypi.org/en/projects/generic-python-install-python3#linux) .
